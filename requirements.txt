@@ -9,4 +9,4 @@ faiss-cpu
 PyMuPDF
 python-magic-bin
 streamlit_pdf_viewer==0.0.4
-
+pypdf==5.1.0
